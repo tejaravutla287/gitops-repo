@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: web-app
-        image: REPLACE_WITH_YOUR_ACR_NAME.azurecr.io/poc-app:latest
+        image: pocregistry3136.azurecr.io/poc-app:latest
         ports:
         - containerPort: 3000
 ---
