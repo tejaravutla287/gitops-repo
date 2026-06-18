@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: web-app
-        image: pocregistry3136.azurecr.io/poc-app:18
+        image: pocregistry3136.azurecr.io/poc-app:19
         ports:
         - containerPort: 3000
 ---
